@@ -1,5 +1,5 @@
 First Name,Last Name,Work E-mail,Created,cloudLifecycleState,Tags,IdentityNow Status,Identity ID,Is Manager,Modified,Employee Number,Manager Display Name,country,jobTitle,location
-Alejandro,Ruiz,Alejandro.Ruiz@212.sailpointtechnologies.com,2020-04-14T10:48:25.496Z,active,"[REMOTE, COVID19]",UNREGISTERED,2c91808a715b6bb40171784dee9751e9,false,2020-04-30T01:00:38.016Z,21239,Edward Huntington,,Customer Service Operations Support,London
+Alejandro,Ruiz,Alejandro.Ruiz@212.sailpointtechnologies.com,2020-04-14T10:48:25.496Z,active,[REMOTE, COVID19],UNREGISTERED,2c91808a715b6bb40171784dee9751e9,false,2020-04-30T01:00:38.016Z,21239,Edward Huntington,,Customer Service Operations Support,London
 Andy,Jones,Andy.Jones@212.sailpointtechnologies.com,2020-04-14T10:48:15.670Z,active,,UNREGISTERED,2c91808a715b6bb40171784dc83550ed,false,2020-04-30T09:07:29.237Z,21790,Chris Jones,,Field Technician level 1,London
 Oona,Mäkinen,omakinen@workday.net,2020-04-14T10:48:17.240Z,active,,UNREGISTERED,2c918088715b6bb80171784dce584fbd,false,2020-04-30T01:01:00.171Z,21319,,,Customer Service Representative,Helsinki
 Peter,Smith,Peter.Smith@212.sailpointtechnologies.com,2020-04-14T10:48:15.604Z,active,,UNREGISTERED,2c91808a715b6bb70171784dc7f34ff4,false,2020-04-30T01:01:12.601Z,21791,Chris Jones,,Field Technician level 1,London
