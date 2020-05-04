@@ -1,0 +1,10 @@
+email,entitlement,description
+Alejandro.Ruiz@212.sailpointtechnologies.com,"super user","Profile has all permissions enabled"
+Alejandro.Ruiz@212.sailpointtechnologies.com,"super user cis","Profile has all CIS permissions enabled"
+Andy.Jones@212.sailpointtechnologies.com,"commercial underwriter","Underwriter has authority to perform policy functions"
+Andy.Jones@212.sailpointtechnologies.com,"risk underwriter","Underwriter has access to risk function functions"
+omakinen@workday.net,"check only","Insured has access to own policy"
+Peter.Smith@212.sailpointtechnologies.com,"enquiry only","View only"
+Phoebe.Tyler@212.sailpointtechnologies.com,"internal","View internal staff"
+
+
